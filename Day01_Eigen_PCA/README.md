@@ -1,5 +1,5 @@
 ﻿# Math for AI Integrations
-# Day 01 — Eigenvalues, Eigenvectors & PCA
+# 01 — Eigenvalues, Eigenvectors & PCA
 
 ## Concept
 Eigenvectors are directions unchanged by a linear transformation; eigenvalues are scalars that scale those directions.
@@ -35,3 +35,4 @@ PCA uses eigen-decomposition of the covariance matrix for dimensionality reducti
 - `outputs/total_output.png`
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68f30eea-cbdc-4d93-b100-9e930cb26ddd" />
+
