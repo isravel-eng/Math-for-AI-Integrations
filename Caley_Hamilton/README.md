@@ -14,7 +14,7 @@ Eigenvalues reveal how transformations scale space — and, in ML, how **RNN wei
 - Verified the **Cayley–Hamilton theorem** using Python.  
 - Understood diagonalization and how it reconstructs a matrix via \( P D P^{-1} \).  
 - Connected eigenvalues to **stability** in ML (e.g., exploding/vanishing gradients).  
-- Explored eigenvalue plots for geometric and numerical intuition.
+- Ideology for Controllability
 
 ---
 
@@ -41,9 +41,17 @@ Eigenvalues reveal how transformations scale space — and, in ML, how **RNN wei
 ---
 
 ### 🖼️ Outputs
+
+
 - Caley_hamilton.py
+ 
 ![alt text](outputs/1.png)
+
 ![alt text](outputs/eigenvectors.png)
+
+
 - stability_analzer.py
+ 
 ![alt text](outputs/stability_analyser.png)
+
 ![alt text](outputs/stability_analyser2.png)
