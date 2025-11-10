@@ -1,6 +1,5 @@
 ﻿# Math for AI Integrations
-
-| S.NO | Topic | Link | key concepts | Learning experience |
-|-----|--------|------|--------|------|
-| 01 | Eigenvalues & Transformations--PCA (ML tie in) | [View](Day01_Eigen_PCA) |- Matrix transformations  - Eigenvalues and eigenvectors  - Basis, span, and null space  - Relation to PCA in AI/ML |Understood how matrices reshape space and how eigenvectors represent invariant directions.  Linked algebraic concepts (basis, span, null space) to geometry and dimensionality reduction.  Gained hands-on experience in plotting and understanding eigen properties visually.|
-
+| S.NO | Topic | Link | Key Concepts | Learning Experience |
+|------|--------|------|---------------|----------------------|
+| 01 | Eigenvalues & Transformations — PCA (ML tie-in) | [View](Day01_Eigen_PCA) | - Matrix transformations  <br> - Eigenvalues and eigenvectors  <br> - Basis, span, and null space  <br> - Relation to PCA in AI/ML | Understood how matrices reshape space and how eigenvectors represent invariant directions.  Linked algebraic concepts (basis, span, null space) to geometry and dimensionality reduction.  Gained hands-on experience in plotting and understanding eigen properties visually. |
+| 02 | Cayley–Hamilton Theorem & Diagonalization — RNN Stability (ML tie-in) | [View](Caley_hamilton) | - Cayley–Hamilton theorem  <br> - Matrix diagonalization  <br> - Eigenvalue-based stability  <br> - Application to RNNs | Verified that matrices satisfy their own characteristic equation.  Learned how diagonalization reconstructs a matrix and simplifies powers.  Connected eigenvalues to RNN stability and gradient explosion/vanishing in ML. Controllability discovered|
